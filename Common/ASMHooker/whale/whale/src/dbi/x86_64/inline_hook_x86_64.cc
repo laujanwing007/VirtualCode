@@ -46,8 +46,8 @@ intptr_t X86_64InlineHook::BuildTrampoline(u8 tail) {
     X86_64InstructionRewriter rewriter(&masm, backup_code_, GetTarget<u8>(), tail);
     rewriter.Rewrite();
 
-    __ movq(R12, Immediate(tail));
-    __ jmp(R12);
+    __ movq(R11, Immediate(tail));
+    __ jmp(R11);
 
     masm.FinalizeCode();
 
