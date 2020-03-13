@@ -23,6 +23,10 @@ Follow us for update or bug report:
 
 #### Version History
 
+2020.03.13-v1.0.0:
+
+ * UnicornVM-ARMV7(Android)修复堆栈未对齐的错误；
+
 2020.03.03-v1.0.0:
 
  * UnicornVM解释器添加vcop_ifetch回调操作码；
