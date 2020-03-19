@@ -8,6 +8,7 @@ Virtual Code Framework for V-CPU/VMProtect/ARM-Translator.
  * UnicornVM-V7 : Virtual CPU based on unicorn for Android armeabi-v7a;
  * UnicornVM-V8 : Virtual CPU based on unicorn for Android arm64-v8a;
 
+The opensource of modified unicorn engine used by PantaEngine & UnicornVM is at [here](https://gitee.com/geekneo/unicorn)
 
 Follow us for update or bug report:
 
