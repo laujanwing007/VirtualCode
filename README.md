@@ -26,6 +26,10 @@ Follow us for update or bug report:
 
 #### Version History
 
+2020.08.03-v1.0.0:
+
+ * UnicornVM-iOS添加ARM64e架构支持；
+
 2020.03.13-v1.0.0:
 
  * UnicornVM-ARMV7(Android)修复堆栈未对齐的错误；

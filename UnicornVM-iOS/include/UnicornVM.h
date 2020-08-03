@@ -1,4 +1,4 @@
-// UnicornVM Framework for ARM64 on iOS platform.
+// UnicornVM Framework for ARM64/ARM64E on iOS platform.
 //
 // If you have any advises, We are happy to hear from you.
 // Follow us:
